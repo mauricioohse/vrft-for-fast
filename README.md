@@ -2,7 +2,9 @@
 
 Esse repositório contém todos os scripts que escrevi ao longo da minha dissertação de mestrado "Projeto de controle baseado em dados para regulação de velocidade de rotor e redução de esforços mecânicos em turbinas eólicas". Atualizarei o link com minha dissertação uma vez que ela for publicada em vias oficiais da UFRGS.
 
-Inicialmente, eu iria adicionar todo o meu folder de arquivos aqui, porém tenho muitos arquivos pesados e o github não é o local adequado para guardar tudo. Por isso, fiz upload da pasta "FAST", que contém todos meus codigos, assim como os arquivos do simulador nesse link: TBD
+Inicialmente, eu iria adicionar todo o meu folder de arquivos aqui, porém tenho muitos arquivos pesados e o github não é o local adequado para guardar tudo. Por isso, fiz upload da pasta "FAST", que contém todos meus codigos, assim como os arquivos do simulador nesse link: https://1drv.ms/f/s!ApSWXT3Krh1UgahpdmIa8yvcQhevCw?e=wP3Afq
+
+IMPORTANTE: é necessario que o repositorio seja salvo em C:/FAST/, visto que os scripts utilizam path absoluto.
 
 # Instalações prévias
 
